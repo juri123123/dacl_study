@@ -1,0 +1,17 @@
+파이썬 기반 빅데이터 처리 및 분석 기술 
+2주 파이썬 데이터 타입과 numpy 이해하기
+
+* import numpy as np
+
+- 행렬과 배열 (다차원배열)
+- linspace
+- random, randint
+- eye
+
+* 벡터화 연산 : 유니버설 함수, 브로드캐스팅 연산
+
+- 유니버설 함수 : 단항, 이항
+- 집계 함수 : sum, mean ...
+- 브로드캐스팅 연산
+- 팬시 인덱싱
+- 정렬 : sort, argsort, x_reverse, axix 인자
